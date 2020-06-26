@@ -9,7 +9,7 @@ todoList style
 
 
 body {
-	background-color: #536691;
+	/*background-color: #536691;*/
 	background-image: url("https://source.unsplash.com/random/");
     min-height: 100vh;
     z-index: -10;
